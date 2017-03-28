@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoPlayer", "VideoPlayer.csproj", "{836E5889-82D8-7D14-F3EA-1BC8733BBFD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoPlayer.Editor", "VideoPlayer.Editor.csproj", "{E2A1A3E5-1315-A96D-2AE1-F6F10EB30B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836E5889-82D8-7D14-F3EA-1BC8733BBFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836E5889-82D8-7D14-F3EA-1BC8733BBFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836E5889-82D8-7D14-F3EA-1BC8733BBFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836E5889-82D8-7D14-F3EA-1BC8733BBFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A1A3E5-1315-A96D-2AE1-F6F10EB30B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A1A3E5-1315-A96D-2AE1-F6F10EB30B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A1A3E5-1315-A96D-2AE1-F6F10EB30B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A1A3E5-1315-A96D-2AE1-F6F10EB30B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
